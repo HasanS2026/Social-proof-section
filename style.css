@@ -103,7 +103,7 @@ body {
 }
 @media screen and (min-width: 900px) {
   body {
-    background: url(images/bg-pattern-top-desktop.svg),
+    background-image: url(images/bg-pattern-top-desktop.svg),
       url(images/bg-pattern-bottom-desktop.svg);
     background-size: 40vw, 70vw;
     background-repeat: no-repeat, no-repeat;
